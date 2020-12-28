@@ -5,7 +5,7 @@ import {Events} from'./Events'
 // import {Testimonial} from './Testimonials'
 import {Videos} from'./Videos'
 import {Works} from './Works'
-import {Services} from './Services'
+import {Services} from './services'
 
 export {
     AboutMe,
